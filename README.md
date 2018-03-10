@@ -1,4 +1,4 @@
 ### Submission Instructions
 
 #### Submission
-Stay tuned for Problem 3 and submission instructions.
+Stay tuned for submission instructions; see https://github.com/StanfordASL/asl_turtlebot/tree/project for Problem 3 files.
